@@ -1,0 +1,665 @@
+<?xml version="1.0" ?>
+<CEDXM version="1.0" generator="FreeCAD Shoji Amida">
+  <Header>
+    <Timestamp>2026-03-25T01:54:05</Timestamp>
+    <Project>Shoji_Amida_Kumiko</Project>
+  </Header>
+  <Members>
+    <Member id="left_frame_bottom">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>dodai</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>30</w>
+        <h>40</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-505.0" y="0.0" z="0.0"/>
+        <End x="405.0" y="0.0" z="0.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_frame_top">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>hari</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>30</w>
+        <h>40</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-505.0" y="0.0" z="1790.0"/>
+        <End x="405.0" y="0.0" z="1790.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_frame_left">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>30</w>
+        <h>40</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-505.0" y="0.0" z="0.0"/>
+        <End x="-505.0" y="0.0" z="1820.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_frame_right">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>30</w>
+        <h>40</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="375.0" y="0.0" z="0.0"/>
+        <End x="375.0" y="0.0" z="1820.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_v_0">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-475.0" y="0.0" z="30.0"/>
+        <End x="-475.0" y="0.0" z="1790.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_v_1">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-262.5" y="0.0" z="30.0"/>
+        <End x="-262.5" y="0.0" z="1790.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_v_2">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-50.0" y="0.0" z="30.0"/>
+        <End x="-50.0" y="0.0" z="1790.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_v_3">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="162.5" y="0.0" z="30.0"/>
+        <End x="162.5" y="0.0" z="1790.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_v_4">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="375.0" y="0.0" z="30.0"/>
+        <End x="375.0" y="0.0" z="1790.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_h_0">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-50.0" y="0.0" z="350.0"/>
+        <End x="162.5" y="0.0" z="350.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_h_1">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-262.5" y="0.0" z="510.0"/>
+        <End x="-50.0" y="0.0" z="510.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_h_2">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-475.0" y="0.0" z="670.0"/>
+        <End x="-262.5" y="0.0" z="670.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_h_3">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-262.5" y="0.0" z="830.0"/>
+        <End x="-50.0" y="0.0" z="830.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_h_4">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="162.5" y="0.0" z="830.0"/>
+        <End x="375.0" y="0.0" z="830.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_h_5">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-262.5" y="0.0" z="990.0"/>
+        <End x="-50.0" y="0.0" z="990.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_h_6">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-262.5" y="0.0" z="1150.0"/>
+        <End x="-50.0" y="0.0" z="1150.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_h_7">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="162.5" y="0.0" z="1150.0"/>
+        <End x="375.0" y="0.0" z="1150.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_h_8">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-262.5" y="0.0" z="1310.0"/>
+        <End x="-50.0" y="0.0" z="1310.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_h_9">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="162.5" y="0.0" z="1310.0"/>
+        <End x="375.0" y="0.0" z="1310.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_h_10">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="-475.0" y="0.0" z="1630.0"/>
+        <End x="-262.5" y="0.0" z="1630.0"/>
+      </Geometry>
+    </Member>
+    <Member id="left_kumiko_h_11">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="162.5" y="0.0" z="1630.0"/>
+        <End x="375.0" y="0.0" z="1630.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_frame_bottom">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>dodai</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>30</w>
+        <h>40</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="505.0" y="0.0" z="0.0"/>
+        <End x="1415.0" y="0.0" z="0.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_frame_top">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>hari</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>30</w>
+        <h>40</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="505.0" y="0.0" z="1790.0"/>
+        <End x="1415.0" y="0.0" z="1790.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_frame_left">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>30</w>
+        <h>40</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="505.0" y="0.0" z="0.0"/>
+        <End x="505.0" y="0.0" z="1820.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_frame_right">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>30</w>
+        <h>40</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="1385.0" y="0.0" z="0.0"/>
+        <End x="1385.0" y="0.0" z="1820.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_v_0">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="535.0" y="0.0" z="30.0"/>
+        <End x="535.0" y="0.0" z="1790.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_v_1">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="747.5" y="0.0" z="30.0"/>
+        <End x="747.5" y="0.0" z="1790.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_v_2">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="960.0" y="0.0" z="30.0"/>
+        <End x="960.0" y="0.0" z="1790.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_v_3">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="1172.5" y="0.0" z="30.0"/>
+        <End x="1172.5" y="0.0" z="1790.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_v_4">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>kuda</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="1385.0" y="0.0" z="30.0"/>
+        <End x="1385.0" y="0.0" z="1790.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_h_0">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="535.0" y="0.0" z="190.0"/>
+        <End x="747.5" y="0.0" z="190.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_h_1">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="960.0" y="0.0" z="190.0"/>
+        <End x="1172.5" y="0.0" z="190.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_h_2">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="960.0" y="0.0" z="350.0"/>
+        <End x="1172.5" y="0.0" z="350.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_h_3">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="747.5" y="0.0" z="670.0"/>
+        <End x="960.0" y="0.0" z="670.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_h_4">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="960.0" y="0.0" z="990.0"/>
+        <End x="1172.5" y="0.0" z="990.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_h_5">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="535.0" y="0.0" z="1150.0"/>
+        <End x="747.5" y="0.0" z="1150.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_h_6">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="960.0" y="0.0" z="1150.0"/>
+        <End x="1172.5" y="0.0" z="1150.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_h_7">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="747.5" y="0.0" z="1310.0"/>
+        <End x="960.0" y="0.0" z="1310.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_h_8">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="535.0" y="0.0" z="1470.0"/>
+        <End x="747.5" y="0.0" z="1470.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_h_9">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="535.0" y="0.0" z="1630.0"/>
+        <End x="747.5" y="0.0" z="1630.0"/>
+      </Geometry>
+    </Member>
+    <Member id="right_kumiko_h_10">
+      <Cedxm_Pset_param>
+        <mokuzai>.T.</mokuzai>
+        <syurui>taruki</syurui>
+        <jyusyu>hinoki</jyusyu>
+        <kesyou>.T.</kesyou>
+        <w>10</w>
+        <h>8</h>
+        <siten_keijyou>katto</siten_keijyou>
+        <syuuten_keijyou>katto</syuuten_keijyou>
+      </Cedxm_Pset_param>
+      <Geometry>
+        <Start x="960.0" y="0.0" z="1630.0"/>
+        <End x="1172.5" y="0.0" z="1630.0"/>
+      </Geometry>
+    </Member>
+  </Members>
+</CEDXM>
