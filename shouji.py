@@ -66,10 +66,8 @@ KUMIKO_WIDTH = 10      # Width of kumiko bars
 KUMIKO_THICKNESS = 8   # Thickness of kumiko bars
 
 # Output folder
-OUTPUT_FOLDER = r"C:\Users\dance\Documents\MEGA\AMIDA"
-
-# Image export folder
-IMAGE_FOLDER = r"C:\Users\dance\Documents\MEGA\image"
+OUTPUT_FOLDER = os.path.join(App.getUserAppDataDir(), "ShojiExports")
+IMAGE_FOLDER = os.path.join(App.getUserAppDataDir(), "ShojiImages")
 
 
 def create_amida_pattern(num_vertical, num_levels, probability, seed=None):
@@ -188,8 +186,8 @@ def create_double_shoji(gap=100):
 
     # Generate seeds
     if RANDOM_SEED is None:
-        left_seed = int(time.time() * 1000) % 10000
-        right_seed = int(time.time() * 1000 + 500) % 10000
+        left_seed = random.randint(0, 1000000)
+        right_seed = random.randint(0, 1000000)
     else:
         left_seed = RANDOM_SEED
         right_seed = RANDOM_SEED + 1000
@@ -258,7 +256,8 @@ def export_png():
         print("Error: No active document")
         return
 
-    png_path = os.path.join(IMAGE_FOLDER, "shoji_amida.png")
+    timestamp = time.strftime("%Y%m%d_%H%M%S")
+    png_path = os.path.join(IMAGE_FOLDER, f"shoji_amida_{timestamp}.png")
     
     try:
         view = Gui.ActiveDocument.ActiveView
@@ -316,7 +315,8 @@ def export_glb():
         print("Error: No active document")
         return
 
-    gltf_path = os.path.join(OUTPUT_FOLDER, "shoji_amida.gltf")
+    timestamp = time.strftime("%Y%m%d_%H%M%S")
+    gltf_path = os.path.join(OUTPUT_FOLDER, f"shoji_amida_{timestamp}.gltf")
     
     try:
         # Get all objects
